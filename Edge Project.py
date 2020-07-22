@@ -96,7 +96,7 @@ while True:
 
 
                 elif third_level == "gate 1":
-                    print("\nThis gate is under maintainance and is letting a limited number of people thorugh. A number between 1 and 5 will be generated, if this number is even, you proceed, else you lose")
+                    print("\nThis gate is under maintainance and is letting a limited number of people through. A number between 1 and 5 will be generated, if this number is even, you proceed, else you lose")
                     generate_number = input("Generate number? (yes): ")
 
                     if generate_number == "yes":
@@ -266,7 +266,7 @@ while True:
 
 
                     if third_level == "gate 1":
-                        print("\nThis gate is under maintainance and is letting a limited number of people thorugh. A number between 1 and 5 will be generated, if this number is even, you proceed, else you lose")
+                        print("\nThis gate is under maintainance and is letting a limited number of people through. A number between 1 and 5 will be generated, if this number is even, you proceed, else you lose")
                         generate_number = input("Generate number? (yes): ")
 
                         if generate_number == "yes":
