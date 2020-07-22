@@ -13,7 +13,7 @@ while True:
 
         if first_choice == "wait":
             print("\nWell done, you proceed to the next stage!")
-            second_level = input("Second stage: You realize that you are late and you might miss your flight. Do you walk to the gate or run? (walk/run: ")
+            second_level = input("Second stage: You realize that you are late and you might miss your flight. Do you walk to the gate or run? (walk/run): ")
 
             if second_level == "run":
                 print("\nWell done.. you go to stage three")
@@ -92,7 +92,7 @@ while True:
                                     break
 
                                 if comp_choice == 3:
-                                    print("\nYou chose scissors. The computer chose scissors. You tied")
+                                    print("\nYou chose scissors. The driver chose scissors. You tied")
 
 
                 elif third_level == "gate 1":
